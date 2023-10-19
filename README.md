@@ -32,3 +32,5 @@ https://pranjal826.github.io/Website/
 https://pranjal826.github.io/ChatGPT/
 
 
+#html #css #javascript #gsap #animations #landingpages #webdev #showcase
+
