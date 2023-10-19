@@ -27,3 +27,8 @@ https://pranjal826.github.io/Landing11/
 
 https://pranjal826.github.io/Landing12/
 
+https://pranjal826.github.io/Website/
+
+https://pranjal826.github.io/ChatGPT/
+
+
